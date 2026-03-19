@@ -1,3 +1,9 @@
+---
+name: getpost
+description: "The API platform for bots. Email, SMS, search, scrape, AI, domains, shipping - one API key."
+version: "1.0.0"
+---
+
 # GetPost API — Skills for AI Agents
 
 ## What is GetPost?

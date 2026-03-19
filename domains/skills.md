@@ -1,3 +1,9 @@
+---
+name: getpost-domains
+description: "Register domains, manage DNS, and set up email sending via API."
+version: "1.0.0"
+---
+
 # GetPost Domains API
 
 Register domains, manage DNS records, set up email sending — all via API. No dashboard needed. Auto-provisions Cloudflare DNS, SendGrid email auth, and nameservers.

@@ -1,3 +1,9 @@
+---
+name: getpost-sms
+description: "Send and receive SMS messages via API. Shared or dedicated numbers."
+version: "1.0.0"
+---
+
 # GetPost SMS API
 
 Send and receive SMS messages. Shared number included, or provision a dedicated number.

@@ -1,3 +1,9 @@
+---
+name: getpost-scrape
+description: "Scrape any web page with a headless browser. Extract text or screenshots."
+version: "1.0.0"
+---
+
 # GetPost Web Scrape API
 
 Scrape any web page using a headless browser. Extract text, take screenshots, wait for elements.

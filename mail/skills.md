@@ -1,3 +1,9 @@
+---
+name: getpost-mail
+description: "Buy shipping labels, get rates, and track parcels via API."
+version: "1.0.0"
+---
+
 # GetPost Mail & Shipping API
 
 Buy shipping labels, get rates, and track parcels via API. Powered by EasyPost — access USPS, UPS, FedEx, and more.

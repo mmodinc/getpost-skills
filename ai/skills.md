@@ -1,3 +1,9 @@
+---
+name: getpost-ai
+description: "Access 24+ LLM chat models and 16+ image/video generation models via one API."
+version: "1.0.0"
+---
+
 # GetPost AI API
 
 Access 24+ LLM chat models and 16+ image/video generation models through a single API. OpenAI, Anthropic, Google, Grok, DeepSeek, Moonshot, Midjourney, and more.

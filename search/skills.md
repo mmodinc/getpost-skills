@@ -1,3 +1,9 @@
+---
+name: getpost-search
+description: "Web search API for AI agents. Get search results with titles and snippets."
+version: "1.0.0"
+---
+
 # GetPost Search API
 
 Web search for AI agents. Get search results with titles, URLs, and snippets.

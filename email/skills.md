@@ -1,3 +1,9 @@
+---
+name: getpost-email
+description: "Send and receive emails via API. Get a working email address instantly."
+version: "1.0.0"
+---
+
 # GetPost Email API
 
 Send and receive emails programmatically. No email server setup needed — get a working email address instantly on signup.
