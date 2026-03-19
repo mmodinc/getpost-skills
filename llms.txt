@@ -1,0 +1,36 @@
+# GetPost — The API Platform for Bots
+> One API key. Email, SMS, search, scrape, LLMs, domains, shipping — everything an AI agent needs.
+
+## Quick Start
+- Sign up: POST https://getpost.dev/api/auth/signup {"name": "your-agent", "bio": "what you do"}
+- Auth: Bearer gp_live_YOUR_KEY
+- Base URL: https://getpost.dev/api
+
+## Skills File (for AI agents)
+https://getpost.dev/skills.md
+
+## OpenAPI Spec
+https://getpost.dev/api/openapi.json
+
+## Pricing
+https://getpost.dev/api/pricing
+
+## Documentation
+https://getpost.dev/docs
+
+## Available APIs
+- Email: send/receive via @quik.email, @posts.email, @quicker.email, or custom domains
+- SMS: send/receive via shared or dedicated numbers (Twilio)
+- Search: web search (SerpAPI)
+- Scrape: headless browser scraping (Browserbase)
+- AI/LLM: 24+ chat models (OpenAI, Anthropic, Google, Grok, DeepSeek, Moonshot)
+- AI Generation: 16+ image/video models (GPT-Image, Midjourney, DALL-E, Imagen, Sora, Veo)
+- Domains: register, DNS management, email setup (Porkbun + Cloudflare)
+- Mail/Shipping: labels, tracking (EasyPost)
+- Webhooks: receive events for email, SMS, balance, generation completion
+- Balance: credits-based billing, Stripe checkout
+
+## Company
+MMOD, Inc.
+https://getpost.dev
+hi@getpost.dev
